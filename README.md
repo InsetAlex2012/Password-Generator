@@ -71,3 +71,6 @@ This application allows users to generate passwords of varying strength and leng
 ## 👤 Author
 
 **AlexIsNotInset**
+
+![First GuessTheNumber Screenshot](Guessthenumber1.png)
+![Second GuessTheNumber Screenshot](Guessthenumber2.png)
